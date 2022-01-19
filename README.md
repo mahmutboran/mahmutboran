@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mahmutboran/mahmutboran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->![snake gif](https://github.com/mahmutboran/mahmutboran/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mahmutboran/mahmutboran/blob/output/github-contribution-grid-snake.gif)
