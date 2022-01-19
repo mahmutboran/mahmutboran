@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <img src="https://github.com/mahmutboran/mahmutboran/blob/main/WhatsApp%20Image%202021-10-19%20at%2021.52.15.jpeg" width="auto">
 - 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?mahmutboran&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?mahmutboran&show_icons=true&theme=radical)
 - 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
